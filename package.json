@@ -1,0 +1,7 @@
+{
+  "name": "cypress-dts",
+  "version": "15.7.0",
+  "description": "Cypress types definition without logical codes",
+  "types": "types/index.d.ts",
+  "license": "MIT"
+}
